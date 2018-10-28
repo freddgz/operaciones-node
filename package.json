@@ -1,0 +1,14 @@
+{
+  "name": "03-basedatos",
+  "version": "1.0.0",
+  "description": "app operacion matematica",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roy",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
